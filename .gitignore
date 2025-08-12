@@ -1,0 +1,40 @@
+
+# Maven target directory
+target/
+
+# Logs
+*.log
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# Environment files
+*.env
+
+# Node modules (if frontend exists in repo)
+node_modules/
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Spring Boot specific
+application-local.yml
+application-dev.yml
+
+# Build artifacts
+build/
+
+# Temporary files
+tmp/
